@@ -102,3 +102,4 @@ Strings to translate:
 1. Zoom In
 1. Zoom Out
 1. Your browser cannot properly display this page. We recommend you use the latest Firefox or Chrome version
+# FWIS-Mapping-viewer
